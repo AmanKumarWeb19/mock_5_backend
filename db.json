@@ -15,6 +15,76 @@
       "gender": "Female"
     }
   ],
+  "doggyData": [
+    {
+      "id": 1,
+      "name": "Mherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Chommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "milo",
+      "age": 2,
+      "place": "Patna",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Luca",
+      "age": 5,
+      "place": "Bhutan",
+      "gender": "Female"
+    }
+  ],
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "user_name": "Tony Stark",
+      "text": "You are the ironman of this world"
+    },
+    {
+      "id": 2,
+      "rating": 9,
+      "user_name": "Bruce Wayne",
+      "text": "You are the batman of this world"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "user_name": "Peter Parker",
+      "text": "You are the spiderman of this world"
+    },
+    {
+      "id": 4,
+      "rating": 10,
+      "user_name": "Nik",
+      "text": "You are the ironman of this world"
+    },
+    {
+      "id": 5,
+      "rating": 9,
+      "user_name": "aman",
+      "text": "You are the batman of this world"
+    }
+  ],
+  "user": [
+    {
+      "Name": "aman",
+      "Email": "akgupta0524@gmail.com",
+      "Password": "1234",
+      "id": 1
+    }
+  ],
   "cars": [
     {
       "id": 1,
