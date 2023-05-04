@@ -46,5 +46,19 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
+  ],
+  "Quiz_User": [
+    {
+      "name": "Aman",
+      "email": "aman@gmail.com"
+    },
+    {
+      "name": "Shaktiman",
+      "email": "shaktiman@gmail.com"
+    },
+    {
+      "name": "Chunnu",
+      "email": "chunnu@gmail.com"
+    }
   ]
 }
