@@ -15,18 +15,24 @@
       "gender": "Female"
     }
   ],
-  "user": [
+  "users": [
     {
       "email": "ak@gmail.com",
-      "password": "ak1234"
+      "password": "ak1234",
+      "username": "Aman Kumar",
+      "isChecked": false
     },
     {
       "email": "sk@gmail.com",
-      "password": "sk1234"
+      "password": "sk1234",
+      "username": "Surej Kumar",
+      "isChecked": false
     },
     {
       "email": "rk@gmail.com",
-      "password": "rk1234"
+      "password": "rk1234",
+      "username": "Ravi Kumar",
+      "isChecked": false
     }
   ],
   "appoinments": [
