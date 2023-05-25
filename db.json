@@ -15,7 +15,7 @@
       "gender": "Female"
     }
   ],
-  "users": [
+  "user": [
     {
       "email": "ak@gmail.com",
       "password": "ak1234"
