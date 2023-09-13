@@ -56,5 +56,186 @@
       "slots": 1,
       "fee": 100
     }
+  ],
+  "Latest_Enrollment": [
+    {
+      "Enr. No": 1563124,
+      "S. Name": "John Doe",
+      "C. Name": "Percussion",
+      "Fees": "$120",
+      "Enr. Date": "2023-08-12"
+    },
+    {
+      "Enr. No": 1563125,
+      "S. Name": "Jane Smith",
+      "C. Name": "Guitar",
+      "Fees": "$150",
+      "Enr. Date": "2023-09-01"
+    },
+    {
+      "Enr. No": 1563126,
+      "S. Name": "Alice Johnson",
+      "C. Name": "Violin",
+      "Fees": "$130",
+      "Enr. Date": "2023-08-20"
+    },
+    {
+      "Enr. No": 1563127,
+      "S. Name": "Bob Anderson",
+      "C. Name": "Piano",
+      "Fees": "$200",
+      "Enr. Date": "2023-09-05"
+    },
+    {
+      "Enr. No": 1563128,
+      "S. Name": "Eva Martinez",
+      "C. Name": "Flute",
+      "Fees": "$140",
+      "Enr. Date": "2023-08-25"
+    }
+  ],
+  "best_students": [
+    {
+      "Reg. No": 43422,
+      "F. Name": "John",
+      "L. Name": "Doe",
+      "Course": 3,
+      "Total Fees": "$300",
+      "Reg. Date": "2023-01-20"
+    },
+    {
+      "Reg. No": 43423,
+      "F. Name": "Jane",
+      "L. Name": "Smith",
+      "Course": 2,
+      "Total Fees": "$250",
+      "Reg. Date": "2023-02-15"
+    },
+    {
+      "Reg. No": 43424,
+      "F. Name": "Alice",
+      "L. Name": "Johnson",
+      "Course": 1,
+      "Total Fees": "$150",
+      "Reg. Date": "2023-03-10"
+    },
+    {
+      "Reg. No": 43425,
+      "F. Name": "Bob",
+      "L. Name": "Anderson",
+      "Course": 4,
+      "Total Fees": "$400",
+      "Reg. Date": "2023-04-05"
+    },
+    {
+      "Reg. No": 43426,
+      "F. Name": "Eva",
+      "L. Name": "Martinez",
+      "Course": 5,
+      "Total Fees": "$500",
+      "Reg. Date": "2023-05-20"
+    }
+  ],
+  "Course_List": [
+    {
+      "Name": "Classical Guitar",
+      "Description": "Adaptable to various genres, celebrated for its rich, expressive sound and timeless design.",
+      "Instructor": "Ms. Jane Doe",
+      "Instrument": "Guitar",
+      "Day of Week": "Wednesday",
+      "# of Students": 26,
+      "Price": "$60",
+      "Status": "Active"
+    },
+    {
+      "Name": "Piano Lessons",
+      "Description": "Master the piano with expert instruction and comprehensive lessons.",
+      "Instructor": "Mr. John Smith",
+      "Instrument": "Piano",
+      "Day of Week": "Monday",
+      "# of Students": 18,
+      "Price": "$70",
+      "Status": "Active"
+    },
+    {
+      "Name": "Violin Mastery",
+      "Description": "Unlock the beauty of the violin with skilled guidance and practice.",
+      "Instructor": "Ms. Emily Adams",
+      "Instrument": "Violin",
+      "Day of Week": "Friday",
+      "# of Students": 20,
+      "Price": "$55",
+      "Status": "Active"
+    },
+    {
+      "Name": "Flute Workshop",
+      "Description": "Explore the enchanting world of the flute in an engaging and creative atmosphere.",
+      "Instructor": "Mr. Robert Johnson",
+      "Instrument": "Flute",
+      "Day of Week": "Thursday",
+      "# of Students": 15,
+      "Price": "$50",
+      "Status": "Inactive"
+    },
+    {
+      "Name": "Bass Guitar Fundamentals",
+      "Description": "Learn the basics of playing the bass guitar with step-by-step lessons.",
+      "Instructor": "Ms. Sarah Davis",
+      "Instrument": "Bass Guitar",
+      "Day of Week": "Tuesday",
+      "# of Students": 12,
+      "Price": "$65",
+      "Status": "Active"
+    },
+    {
+      "Name": "Drumming Essentials",
+      "Description": "Discover the rhythm and beat with hands-on drumming instruction.",
+      "Instructor": "Mr. Michael Brown",
+      "Instrument": "Drums",
+      "Day of Week": "Wednesday",
+      "# of Students": 22,
+      "Price": "$75",
+      "Status": "Inactive"
+    },
+    {
+      "Name": "Saxophone Serenity",
+      "Description": "Experience the soothing melodies of the saxophone under expert guidance.",
+      "Instructor": "Ms. Laura White",
+      "Instrument": "Saxophone",
+      "Day of Week": "Tuesday",
+      "# of Students": 16,
+      "Price": "$70",
+      "Status": "Active"
+    },
+    {
+      "Name": "Voice Training",
+      "Description": "Enhance your vocal abilities with personalized voice training sessions.",
+      "Instructor": "Mr. David Clark",
+      "Instrument": "Voice",
+      "Day of Week": "Thursday",
+      "# of Students": 25,
+      "Price": "$80",
+      "Status": "Inactive"
+    },
+    {
+      "Name": "Electric Guitar Rockstars",
+      "Description": "Become a guitar legend with electric guitar lessons and rock 'n' roll techniques.",
+      "Instructor": "Ms. Lisa Turner",
+      "Instrument": "Electric Guitar",
+      "Day of Week": "Monday",
+      "# of Students": 30,
+      "Price": "$90",
+      "Status": "Active"
+    },
+    {
+      "Name": "Keyboard Maestro",
+      "Description": "Unlock the potential of the keyboard with comprehensive lessons for all skill levels.",
+      "Instructor": "Mr. Kevin Rogers",
+      "Instrument": "Keyboard",
+      "Day of Week": "Friday",
+      "# of Students": 20,
+      "Price": "$70",
+      "Status": "Inactive"
+    }
   ]
 }
